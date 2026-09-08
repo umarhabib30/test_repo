@@ -1,2 +1,5 @@
 # test_repo
-dummy dummy hehehehehe
+this project is school managgement system
+
+# lsdjflskdjk sld
+
